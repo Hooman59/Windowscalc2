@@ -22,6 +22,11 @@ namespace WindowsCalc
          Calculations calculations = new Calculations();
          textBox3.Text=calculations.sum(Convert.ToInt32(textBox1.Text),Convert.ToInt32(textBox2.Text)).ToString();   
         }
-        
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Calculations calculations = new Calculations();
+            textBox3.Text = calculations.subtract(Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox2.Text)).ToString();
+        }
     }
 }
