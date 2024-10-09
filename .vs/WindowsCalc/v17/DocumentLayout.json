@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\gittest\\WindowsCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|e:\\gittest\\windowscalc\\windowscalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|solutionrelative:windowscalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|e:\\gittest\\windowscalc\\windowscalc\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|solutionrelative:windowscalc\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|e:\\gittest\\windowscalc\\windowscalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F24F896-E91B-4F36-AE17-9C8A479EBEE4}|WindowsCalc\\WindowsCalc.csproj|solutionrelative:windowscalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculations.cs",
+              "DocumentMoniker": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Calculations.cs",
+              "RelativeDocumentMoniker": "WindowsCalc\\Calculations.cs",
+              "ToolTip": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Calculations.cs",
+              "RelativeToolTip": "WindowsCalc\\Calculations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:06:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsCalc\\Form1.cs",
+              "ToolTip": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Form1.cs",
+              "RelativeToolTip": "WindowsCalc\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAxwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:04:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsCalc\\Form1.cs",
+              "ToolTip": "E:\\gittest\\WindowsCalc\\WindowsCalc\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsCalc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:03:30.917Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

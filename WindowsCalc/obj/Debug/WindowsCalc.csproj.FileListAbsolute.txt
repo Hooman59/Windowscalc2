@@ -1,0 +1,10 @@
+E:\gittest\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+E:\gittest\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+E:\gittest\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.AssemblyReference.cache
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.cache
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.CoreCompileInputs.cache
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+E:\gittest\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
